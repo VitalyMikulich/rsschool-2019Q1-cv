@@ -1,0 +1,100 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  width: 1024px;
+  margin: auto;
+  background-color: #dcdcdc;
+  margin-bottom: 50px;
+}
+
+.vissualyhidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  visibility: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+img {
+  width: 160px;
+  height: 200px;
+  position: relative;
+  top: -206px;
+  left: -212px;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+p {
+  width: 600px;
+}
+
+.name-contacts {
+  width: 660px;
+  margin-left: 30%;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.name {
+  margin-right: 100px;
+}
+
+.menu {
+  position: fixed;
+  top: 79px;
+  width: 202px;
+}
+
+.name-menu-img div {
+  display: inline-block;
+}
+
+#contacts {
+  width: 300px;
+}
+
+#goals {
+  width: 700px;
+  margin-left: 30%;
+}
+
+#english {
+  width: 700px;
+  margin-left: 30%;
+}
+
+#prog-lang {
+  width: 700px;
+  margin-left: 30%;
+}
+
+#code-eg {
+  width: 700px;
+  margin-left: 30%;
+}
+
+#experience {
+  width: 700px;
+  margin-left: 30%;
+}
+
+#education {
+  width: 700px;
+  margin-left: 30%;
+}
