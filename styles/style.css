@@ -1,0 +1,97 @@
+
+
+body {
+  width: 1024px;
+  margin: 30px auto;
+  font-family: 'Sniglet', 'Arial', sans-serif;
+}
+
+.vissualyhidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  visibility: hidden;
+}
+
+a {
+  color: black;
+  font-style: italic;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  transition: .3s;
+}
+
+.logo {
+  width: 25px;
+  height: 25px;
+}
+
+.logo:hover {
+  transform: rotate(360deg);
+  transition: .8s;
+}
+
+.me-photo {
+  position: relative;
+  top: -206px;
+  left: -212px;
+  float: right;
+  width: 160px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.logo-list {
+  list-style-type: none;
+}
+
+.logo-li {
+  display: inline-block;
+  margin: 0 7px;
+}
+
+p {
+  width: 680px;
+}
+
+.name-contacts {
+  width: 660px;
+  margin-left: 30%;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.name {
+  margin-right: 100px;
+}
+
+.menu {
+  position: fixed;
+  top: 79px;
+  width: 202px;
+}
+
+.name-menu-img div {
+  display: inline-block;
+}
+
+#contacts {
+  width: 300px;
+}
+
+#goals, #english, #prog-lang,#code-eg ,#experience ,#education {
+  width: 700px;
+  margin-left: 30%;
+}
+
+#goals:hover h2, #english:hover h2, #prog-lang:hover h2, #code-eg:hover h2, #experience:hover h2, #education:hover h2, #contacts:hover h2 {
+  color: red;
+  transition: .3s;
+}
+
