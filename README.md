@@ -1,4 +1,4 @@
 # rsschool-2019Q1-cv
 https://VitalyMikulich.github.io/rsschool-2019Q1-cv/cv
 
-https://VitalyMikulich.github.io/rsschool-2019Q1-cv/index
+https://VitalyMikulich.github.io/rsschool-2019Q1-cv/
